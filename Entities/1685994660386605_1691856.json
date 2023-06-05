@@ -1,0 +1,22 @@
+{
+    "1685994660386605:1691856": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685994660624383:1692189",
+            "resources": [
+                "1685994660386401:1691851"
+            ]
+        }
+    },
+    "1685994660624383:1692189": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/brille3/Textures"
+            }
+        }
+    }
+}

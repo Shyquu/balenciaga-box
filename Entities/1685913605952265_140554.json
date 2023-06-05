@@ -1,0 +1,33 @@
+{
+    "1685913605950469:140553": {
+        "IFileManager": {
+            "path": "Files/File_1685913605950469_140553.js"
+        }
+    },
+    "1685913605952265:140554": {
+        "IResourceController": {
+            "name": "PlaySound",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913605952279:140555",
+            "fileId": "1685913605950469:140553",
+            "publicId": "1685913605957219:140565",
+            "expected_hash": "41437c063a2c80955f58cf4029ac4afd"
+        },
+        "IResourceManager": {
+            "uid": "1685913605952279:140555",
+            "name": "Files/File_1685913605950469_140553.js",
+            "flags": 1
+        }
+    },
+    "1685913605957219:140565": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Nodes/PlaySound.js",
+                "hash": "41437c063a2c80955f58cf4029ac4afd"
+            }
+        }
+    }
+}

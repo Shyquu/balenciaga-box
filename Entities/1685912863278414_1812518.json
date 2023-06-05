@@ -1,0 +1,30 @@
+{
+    "1685912863278414:1812518": {
+        "IResourceController": {
+            "name": "balenciagabox",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685912863278096:1812387",
+            "fileId": "1685912863325452:1812660",
+            "originalId": "1685913552497182:52393",
+            "expected_hash": "035f1d58fa6c4a893f10f013d2a98486"
+        },
+        "IResourceManager": {
+            "uid": "1685912863278096:1812387",
+            "name": "GltfImport_2",
+            "flags": 0
+        }
+    },
+    "1685912863325452:1812660": {
+        "IFileManager": {
+            "path": "Files/File_1685912863325452_1812660.oprfb"
+        }
+    },
+    "1685913552497182:52393": {
+        "IFileManager": {
+            "path": "Files/File_1685913552497182_52393.oprfb"
+        }
+    }
+}

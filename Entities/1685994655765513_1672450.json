@@ -1,0 +1,54 @@
+{
+    "1685994655765513:1672450": {
+        "IResourceController": {
+            "name": "brille3",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1685994660462613:1692011",
+            "publicId": "1685994660511109:1692023",
+            "expected_hash": "fb77473e07537fc92ccb004c0054e5ab",
+            "resources": [
+                "1685994659284688:1691352",
+                "1685994659360543:1691402",
+                "1685994659361195:1691425",
+                "1685994660386605:1691856",
+                "1685994660412870:1691934"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Default OBJ",
+                        "v": "1685994659363100:1691428"
+                    },
+                    {
+                        "k": "glass",
+                        "v": "1685994659864585:1691638"
+                    }
+                ]
+            }
+        }
+    },
+    "1685994660462613:1692011": {
+        "IFileManager": {
+            "path": "Files/File_1685994660462613_1692011.glb"
+        }
+    },
+    "1685994660511109:1692023": {
+        "IResourceController": {
+            "public": {
+                "path": "brille3.glb",
+                "hash": "fb77473e07537fc92ccb004c0054e5ab"
+            }
+        }
+    }
+}

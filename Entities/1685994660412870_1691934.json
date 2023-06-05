@@ -1,0 +1,30 @@
+{
+    "1685994660412870:1691934": {
+        "IResourceController": {
+            "name": "brille3",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685994660412734:1691884",
+            "fileId": "1685994660450174:1692005",
+            "originalId": "1685995955982919:2718015",
+            "expected_hash": "f47c20411ae914fe1445f21ec43dac83"
+        },
+        "IResourceManager": {
+            "uid": "1685994660412734:1691884",
+            "name": "GltfImport_1",
+            "flags": 0
+        }
+    },
+    "1685994660450174:1692005": {
+        "IFileManager": {
+            "path": "Files/File_1685994660450174_1692005.oprfb"
+        }
+    },
+    "1685995955982919:2718015": {
+        "IFileManager": {
+            "path": "Files/File_1685995955982919_2718015.oprfb"
+        }
+    }
+}

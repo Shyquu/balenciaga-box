@@ -1,0 +1,39 @@
+{
+    "1685912862627935:1812069": {
+        "IFileManager": {
+            "path": "Files/File_1685912862627935_1812069"
+        }
+    },
+    "1685912862629361:1812070": {
+        "IResourceController": {
+            "name": "Default OBJ",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685912862629365:1812071",
+            "fileId": "1685912862627935:1812069",
+            "originalId": "1685912862667898:1812086",
+            "publicId": "1685912863654096:1812895",
+            "expected_hash": "ed4f5159190096a9cd1f2f63e37ee076"
+        },
+        "IResourceManager": {
+            "uid": "1685912862629365:1812071",
+            "name": "Files/File_1685912862627935_1812069",
+            "flags": 1
+        }
+    },
+    "1685912862667898:1812086": {
+        "IFileManager": {
+            "path": "Files/File_1685912862667898_1812086.lsmat"
+        }
+    },
+    "1685912863654096:1812895": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Materials/Default OBJ.lsmat",
+                "hash": "ecc6fd1045ccc50e4d17709fc943b18c"
+            }
+        }
+    }
+}

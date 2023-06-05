@@ -1,0 +1,23 @@
+{
+    "1685994648019287:1633917": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685994650886960:1634967",
+            "resources": [
+                "1685994648021211:1633919",
+                "1685994649250457:1634363"
+            ]
+        }
+    },
+    "1685994650886960:1634967": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/brille1/Materials"
+            }
+        }
+    }
+}

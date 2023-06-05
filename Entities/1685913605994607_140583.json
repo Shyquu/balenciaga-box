@@ -1,0 +1,23 @@
+{
+    "1685913605994607:140583": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685913605994734:140584",
+            "resources": [
+                "1685913605962987:140567",
+                "1685913606017089:140592"
+            ]
+        }
+    },
+    "1685913605994734:140584": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Meshes"
+            }
+        }
+    }
+}

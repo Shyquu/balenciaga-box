@@ -1,0 +1,67 @@
+{
+    "1685912860128735:1811172": {
+        "IFileManager": {
+            "path": "Files/File_1685912860128735_1811172.png"
+        }
+    },
+    "1685912860131773:1811173": {
+        "IResourceController": {
+            "name": "Balenciaga_Logo 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685912860132910:1811174",
+            "fileId": "1685912860128735:1811172",
+            "originalId": "1685912860133622:1811180",
+            "publicId": "1685912863626781:1812785",
+            "expected_hash": "828f25c9c2060e12d6fd522def6128bb",
+            "additional": {
+                "originHash": "828f25c9c2060e12d6fd522def6128bb",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685912860132910:1811174",
+            "name": "Files/File_1685912860128735_1811172.jpg",
+            "flags": 1
+        }
+    },
+    "1685912860132910:1811174": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1720320",
+                "compressedSize": "30164",
+                "extension": "png",
+                "originalRAM": "1720320",
+                "originalSize": "30164",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685912860151424:1811187"
+        }
+    },
+    "1685912860133622:1811180": {
+        "IFileManager": {
+            "path": "Files/File_1685912860133622_1811180.png"
+        }
+    },
+    "1685912860151424:1811187": {
+        "IFileManager": {
+            "path": "Files/File_1685912860151424_1811187.png"
+        }
+    },
+    "1685912863626781:1812785": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Textures/Balenciaga_Logo 2.png",
+                "hash": "828f25c9c2060e12d6fd522def6128bb"
+            }
+        }
+    }
+}

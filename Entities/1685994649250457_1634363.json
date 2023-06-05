@@ -1,0 +1,39 @@
+{
+    "1685994649248800:1634362": {
+        "IFileManager": {
+            "path": "Files/File_1685994649248800_1634362"
+        }
+    },
+    "1685994649250457:1634363": {
+        "IResourceController": {
+            "name": "glass",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685994649250463:1634364",
+            "fileId": "1685994649248800:1634362",
+            "originalId": "1685994649285804:1634373",
+            "publicId": "1685994650892502:1634993",
+            "expected_hash": "77ee924e91a16de458db5cdbddb3835f"
+        },
+        "IResourceManager": {
+            "uid": "1685994649250463:1634364",
+            "name": "Files/File_1685994649248800_1634362",
+            "flags": 1
+        }
+    },
+    "1685994649285804:1634373": {
+        "IFileManager": {
+            "path": "Files/File_1685994649285804_1634373.lsmat"
+        }
+    },
+    "1685994650892502:1634993": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/brille1/Materials/glass.lsmat",
+                "hash": "2ac585baa12ffd0f7a7e606078238983"
+            }
+        }
+    }
+}

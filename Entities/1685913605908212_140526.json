@@ -1,0 +1,39 @@
+{
+    "1685913605904479:140525": {
+        "IFileManager": {
+            "path": "Files/File_1685913605904479_140525"
+        }
+    },
+    "1685913605908212:140526": {
+        "IResourceController": {
+            "name": "AnimationController [EDIT ME]",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913605908230:140527",
+            "fileId": "1685913605904479:140525",
+            "originalId": "1685913605908721:140531",
+            "publicId": "1685913605921752:140537",
+            "expected_hash": "d46e112d32cbf32b1ccaa958b83149bd"
+        },
+        "IResourceManager": {
+            "uid": "1685913605908230:140527",
+            "name": "Files/File_1685913605904479_140525",
+            "flags": 1
+        }
+    },
+    "1685913605908721:140531": {
+        "IFileManager": {
+            "path": "Files/File_1685913605908721_140531.lsscript"
+        }
+    },
+    "1685913605921752:140537": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/AnimationController [EDIT ME].lsscript",
+                "hash": "1997d05bf0eb08f267dbdf172a78d2c0"
+            }
+        }
+    }
+}

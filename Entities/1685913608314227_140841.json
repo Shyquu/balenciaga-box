@@ -1,0 +1,39 @@
+{
+    "1685913608312746:140840": {
+        "IFileManager": {
+            "path": "Files/File_1685913608312746_140840"
+        }
+    },
+    "1685913608314227:140841": {
+        "IResourceController": {
+            "name": "frame 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913608314231:140842",
+            "fileId": "1685913608312746:140840",
+            "originalId": "1685913608348367:140846",
+            "publicId": "1685913608513978:140855",
+            "expected_hash": "ed4f5159190096a9cd1f2f63e37ee076"
+        },
+        "IResourceManager": {
+            "uid": "1685913608314231:140842",
+            "name": "Files/File_1685913608312746_140840",
+            "flags": 1
+        }
+    },
+    "1685913608348367:140846": {
+        "IFileManager": {
+            "path": "Files/File_1685913608348367_140846.lsmat"
+        }
+    },
+    "1685913608513978:140855": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Materials/frame 2.lsmat",
+                "hash": "52cc35a33d077f5a498401e58909c5b4"
+            }
+        }
+    }
+}

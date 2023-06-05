@@ -1,0 +1,39 @@
+{
+    "1675108891143215:15573": {
+        "IResourceController": {
+            "name": "Cup",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645151101941923:1033825",
+            "fileId": "1675108891143397:15765",
+            "originalId": "1675108891143397:15766",
+            "publicId": "1675108891143446:15882",
+            "expected_hash": "05e1c6eff85fa3f830f6d0a0115b1bac"
+        },
+        "IResourceManager": {
+            "uid": "1645151101941923:1033825",
+            "name": "Files/File_1675108891143397_15765",
+            "flags": 1
+        }
+    },
+    "1675108891143397:15765": {
+        "IFileManager": {
+            "path": "Files/File_1675108891143397_15765"
+        }
+    },
+    "1675108891143397:15766": {
+        "IFileManager": {
+            "path": "Files/File_1675108891143397_15766.lsmat"
+        }
+    },
+    "1675108891143446:15882": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Cup.lsmat",
+                "hash": "8fa515ebc9bb3b459229f49ba9c3b349"
+            }
+        }
+    }
+}

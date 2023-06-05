@@ -1,0 +1,33 @@
+{
+    "1685912171259575:1550928": {
+        "IFileManager": {
+            "path": "Files/File_1685912171259575_1550928.js"
+        }
+    },
+    "1685912171262126:1550929": {
+        "IResourceController": {
+            "name": "InteractWithGlasses",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685912171262152:1550930",
+            "fileId": "1685912171259575:1550928",
+            "publicId": "1685912171269749:1550938",
+            "expected_hash": "e06de108d6e90df634cc75feefa4a9d1"
+        },
+        "IResourceManager": {
+            "uid": "1685912171262152:1550930",
+            "name": "Files/File_1685912171259575_1550928.js",
+            "flags": 1
+        }
+    },
+    "1685912171269749:1550938": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Tracking Assets/Scripts/Helpers/InteractWithGlasses.js",
+                "hash": "e06de108d6e90df634cc75feefa4a9d1"
+            }
+        }
+    }
+}

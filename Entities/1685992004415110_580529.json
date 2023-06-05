@@ -1,0 +1,39 @@
+{
+    "1685992004410735:580521": {
+        "IFileManager": {
+            "path": "Files/File_1685992004410735_580521"
+        }
+    },
+    "1685992004415110:580529": {
+        "IResourceController": {
+            "name": "TransformController",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685992004415140:580530",
+            "fileId": "1685992004410735:580521",
+            "originalId": "1685992004427987:580536",
+            "publicId": "1685992004446661:580542",
+            "expected_hash": "d46e112d32cbf32b1ccaa958b83149bd"
+        },
+        "IResourceManager": {
+            "uid": "1685992004415140:580530",
+            "name": "Files/File_1685992004410735_580521",
+            "flags": 1
+        }
+    },
+    "1685992004427987:580536": {
+        "IFileManager": {
+            "path": "Files/File_1685992004427987_580536.lsscript"
+        }
+    },
+    "1685992004446661:580542": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TransformController.lsscript",
+                "hash": "5ff5bdc87f5963590d2e56854eedc637"
+            }
+        }
+    }
+}

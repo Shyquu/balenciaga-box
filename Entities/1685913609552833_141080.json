@@ -1,0 +1,105 @@
+{
+    "1685913609550734:141077": {
+        "IFileManager": {
+            "path": "Files/File_1685913609550734_141077.mesh"
+        }
+    },
+    "1685913609552833:141080": {
+        "IResourceController": {
+            "name": "model_0 3",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913609578044:141082",
+            "fileId": "1685913609550734:141077",
+            "publicId": "1685913609599748:141094",
+            "expected_hash": "dc9912eff281f336bb37185681294e37",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685913609578044:141082",
+            "name": "Files/File_1685913609550734_141077.mesh",
+            "flags": 1
+        }
+    },
+    "1685913609578044:141082": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "225446",
+                "compressedSize": "183386",
+                "extension": "mesh",
+                "originalRAM": "225446",
+                "originalSize": "183386",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685913609586694:141093"
+        }
+    },
+    "1685913609586694:141093": {
+        "IFileManager": {
+            "path": "Files/File_1685913609586694_141093.mesh"
+        }
+    },
+    "1685913609599748:141094": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Meshes_1/model_0 3.mesh",
+                "hash": "dc9912eff281f336bb37185681294e37"
+            }
+        }
+    }
+}

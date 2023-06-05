@@ -1,0 +1,39 @@
+{
+    "1685913607987698:140816": {
+        "IFileManager": {
+            "path": "Files/File_1685913607987698_140816"
+        }
+    },
+    "1685913607989177:140817": {
+        "IResourceController": {
+            "name": "Material 4",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913607989181:140818",
+            "fileId": "1685913607987698:140816",
+            "originalId": "1685913608022722:140822",
+            "publicId": "1685913608192490:140831",
+            "expected_hash": "ed4f5159190096a9cd1f2f63e37ee076"
+        },
+        "IResourceManager": {
+            "uid": "1685913607989181:140818",
+            "name": "Files/File_1685913607987698_140816",
+            "flags": 1
+        }
+    },
+    "1685913608022722:140822": {
+        "IFileManager": {
+            "path": "Files/File_1685913608022722_140822.lsmat"
+        }
+    },
+    "1685913608192490:140831": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Materials/Material 4.lsmat",
+                "hash": "456cdc10e27f6a48623e51e660773602"
+            }
+        }
+    }
+}

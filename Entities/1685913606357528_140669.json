@@ -1,0 +1,24 @@
+{
+    "1685913606357528:140669": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685913606357764:140670",
+            "resources": [
+                "1685913606220813:140655",
+                "1685913606459850:140681",
+                "1685913606708833:140705"
+            ]
+        }
+    },
+    "1685913606357764:140670": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Materials"
+            }
+        }
+    }
+}

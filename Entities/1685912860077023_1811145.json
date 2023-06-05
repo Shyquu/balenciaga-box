@@ -1,0 +1,24 @@
+{
+    "1685912860077023:1811145": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685912863625131:1812773",
+            "resources": [
+                "1685912860086701:1811152",
+                "1685912860131773:1811173",
+                "1685912862627230:1812062"
+            ]
+        }
+    },
+    "1685912863625131:1812773": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Textures"
+            }
+        }
+    }
+}

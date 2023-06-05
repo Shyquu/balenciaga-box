@@ -1,0 +1,39 @@
+{
+    "1675108891143215:15574": {
+        "IResourceController": {
+            "name": "Spoon",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645151174835830:1169763",
+            "fileId": "1675108891143398:15767",
+            "originalId": "1675108891143399:15768",
+            "publicId": "1675108891143447:15883",
+            "expected_hash": "05e1c6eff85fa3f830f6d0a0115b1bac"
+        },
+        "IResourceManager": {
+            "uid": "1645151174835830:1169763",
+            "name": "Files/File_1675108891143398_15767",
+            "flags": 1
+        }
+    },
+    "1675108891143398:15767": {
+        "IFileManager": {
+            "path": "Files/File_1675108891143398_15767"
+        }
+    },
+    "1675108891143399:15768": {
+        "IFileManager": {
+            "path": "Files/File_1675108891143399_15768.lsmat"
+        }
+    },
+    "1675108891143447:15883": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Spoon.lsmat",
+                "hash": "63ebdcea5509f6432a22d36efa62e744"
+            }
+        }
+    }
+}

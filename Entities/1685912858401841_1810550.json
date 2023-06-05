@@ -1,0 +1,72 @@
+{
+    "1685912858401841:1810550": {
+        "IResourceController": {
+            "name": "balenciagabox",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1685912863348731:1812664",
+            "publicId": "1685912863605708:1812752",
+            "expected_hash": "39530c5d7a2ade75c79b38c9d8a9a397",
+            "resources": [
+                "1685912859649099:1810897",
+                "1685912860076496:1811135",
+                "1685912860077023:1811145",
+                "1685912860172422:1811197",
+                "1685912863278414:1812518",
+                "1685913608912776:140906",
+                "1685913609655701:141119"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Default OBJ",
+                        "v": "1685912862629365:1812071"
+                    },
+                    {
+                        "k": "Material",
+                        "v": "1685912860175271:1811200"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1685912861189402:1811563"
+                    },
+                    {
+                        "k": "Velvet",
+                        "v": "1685912860689593:1811392"
+                    },
+                    {
+                        "k": "frame",
+                        "v": "1685912861686216:1811734"
+                    },
+                    {
+                        "k": "glass",
+                        "v": "1685912862140064:1811897"
+                    }
+                ]
+            }
+        }
+    },
+    "1685912863348731:1812664": {
+        "IFileManager": {
+            "path": "Files/File_1685912863348731_1812664.glb"
+        }
+    },
+    "1685912863605708:1812752": {
+        "IResourceController": {
+            "public": {
+                "path": "balenciagabox.glb",
+                "hash": "39530c5d7a2ade75c79b38c9d8a9a397"
+            }
+        }
+    }
+}

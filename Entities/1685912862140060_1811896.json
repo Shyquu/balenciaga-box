@@ -1,0 +1,39 @@
+{
+    "1685912862138182:1811895": {
+        "IFileManager": {
+            "path": "Files/File_1685912862138182_1811895"
+        }
+    },
+    "1685912862140060:1811896": {
+        "IResourceController": {
+            "name": "glass",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685912862140064:1811897",
+            "fileId": "1685912862138182:1811895",
+            "originalId": "1685912862176752:1811909",
+            "publicId": "1685912863648846:1812891",
+            "expected_hash": "ed4f5159190096a9cd1f2f63e37ee076"
+        },
+        "IResourceManager": {
+            "uid": "1685912862140064:1811897",
+            "name": "Files/File_1685912862138182_1811895",
+            "flags": 1
+        }
+    },
+    "1685912862176752:1811909": {
+        "IFileManager": {
+            "path": "Files/File_1685912862176752_1811909.lsmat"
+        }
+    },
+    "1685912863648846:1812891": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Materials/glass.lsmat",
+                "hash": "0e9fc709a9956656439f2b5442a3ffbe"
+            }
+        }
+    }
+}

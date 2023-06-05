@@ -1,0 +1,17 @@
+{
+    "1685913609655466:141115": {
+        "IResourceController": {
+            "name": "Cube.001_",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913609655461:141114"
+        },
+        "IResourceManager": {
+            "uid": "1685913609655461:141114",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

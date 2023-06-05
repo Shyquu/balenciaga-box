@@ -1,0 +1,39 @@
+{
+    "1685994648019680:1633918": {
+        "IFileManager": {
+            "path": "Files/File_1685994648019680_1633918"
+        }
+    },
+    "1685994648021211:1633919": {
+        "IResourceController": {
+            "name": "frame",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685994648021214:1633920",
+            "fileId": "1685994648019680:1633918",
+            "originalId": "1685994648079051:1633943",
+            "publicId": "1685994650887626:1634968",
+            "expected_hash": "77ee924e91a16de458db5cdbddb3835f"
+        },
+        "IResourceManager": {
+            "uid": "1685994648021214:1633920",
+            "name": "Files/File_1685994648019680_1633918",
+            "flags": 1
+        }
+    },
+    "1685994648079051:1633943": {
+        "IFileManager": {
+            "path": "Files/File_1685994648079051_1633943.lsmat"
+        }
+    },
+    "1685994650887626:1634968": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/brille1/Materials/frame.lsmat",
+                "hash": "30bfe28283c9534f8554faadef02e69d"
+            }
+        }
+    }
+}

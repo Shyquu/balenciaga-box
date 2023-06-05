@@ -1,0 +1,39 @@
+{
+    "1685912860687534:1811390": {
+        "IFileManager": {
+            "path": "Files/File_1685912860687534_1811390"
+        }
+    },
+    "1685912860689588:1811391": {
+        "IResourceController": {
+            "name": "Velvet",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685912860689593:1811392",
+            "fileId": "1685912860687534:1811390",
+            "originalId": "1685912860729841:1811404",
+            "publicId": "1685912863632961:1812826",
+            "expected_hash": "ed4f5159190096a9cd1f2f63e37ee076"
+        },
+        "IResourceManager": {
+            "uid": "1685912860689593:1811392",
+            "name": "Files/File_1685912860687534_1811390",
+            "flags": 1
+        }
+    },
+    "1685912860729841:1811404": {
+        "IFileManager": {
+            "path": "Files/File_1685912860729841_1811404.lsmat"
+        }
+    },
+    "1685912863632961:1812826": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Materials/Velvet.lsmat",
+                "hash": "20e3eada1578d6a8fae3bacc4263ea30"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "1685913609111386:140977": {
+        "IFileManager": {
+            "path": "Files/File_1685913609111386_140977.mesh"
+        }
+    },
+    "1685913609113482:140978": {
+        "IResourceController": {
+            "name": "Cube 4",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685913609138290:140980",
+            "fileId": "1685913609111386:140977",
+            "publicId": "1685913609153584:140994",
+            "expected_hash": "a7c1c6a12d32cc31aed08a452504c6bd",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture1"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685913609138290:140980",
+            "name": "Files/File_1685913609111386_140977.mesh",
+            "flags": 1
+        }
+    },
+    "1685913609138290:140980": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "32336",
+                "compressedSize": "7061",
+                "extension": "mesh",
+                "originalRAM": "32336",
+                "originalSize": "7061",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture1"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685913609145728:140991"
+        }
+    },
+    "1685913609145728:140991": {
+        "IFileManager": {
+            "path": "Files/File_1685913609145728_140991.mesh"
+        }
+    },
+    "1685913609153584:140994": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/balenciagabox/Meshes_1/Cube 4.mesh",
+                "hash": "a7c1c6a12d32cc31aed08a452504c6bd"
+            }
+        }
+    }
+}

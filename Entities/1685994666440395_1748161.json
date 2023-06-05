@@ -1,0 +1,14 @@
+{
+    "1685994666440395:1748161": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "resources": [
+                "1685994666440408:1748163"
+            ]
+        }
+    }
+}
